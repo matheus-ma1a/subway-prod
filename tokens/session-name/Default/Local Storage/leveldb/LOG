@@ -1,0 +1,30 @@
+2024/04/13-15:58:11.078 23c5 Reusing MANIFEST /root/subway/tokens/session-name/Default/Local Storage/leveldb/MANIFEST-000026
+2024/04/13-15:58:11.081 23c5 Recovering log #30
+2024/04/13-15:58:11.083 23c5 Reusing old log /root/subway/tokens/session-name/Default/Local Storage/leveldb/000030.log 
+2024/04/13-23:08:41.520 23c1 Level-0 table #34: started
+2024/04/13-23:08:41.535 23c1 Level-0 table #34: 14121 bytes OK
+2024/04/13-23:08:41.544 23c1 Delete type=0 #30
+2024/04/14-20:09:52.883 23c1 Level-0 table #36: started
+2024/04/14-20:09:52.891 23c1 Level-0 table #36: 13813 bytes OK
+2024/04/14-20:09:52.893 23c1 Delete type=0 #33
+2024/04/15-18:30:59.002 23bf Level-0 table #38: started
+2024/04/15-18:30:59.009 23bf Level-0 table #38: 13153 bytes OK
+2024/04/15-18:30:59.012 23bf Delete type=0 #35
+2024/04/15-18:30:59.013 23bf Compacting 4@0 + 1@1 files
+2024/04/15-18:30:59.017 23bf Generated table #39@0: 98 keys, 5281 bytes
+2024/04/15-18:30:59.017 23bf Compacted 4@0 + 1@1 files => 5281 bytes
+2024/04/15-18:30:59.023 23bf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/15-18:30:59.023 23bf Delete type=2 #29
+2024/04/15-18:30:59.024 23bf Delete type=2 #31
+2024/04/15-18:30:59.024 23bf Delete type=2 #38
+2024/04/15-18:30:59.024 23bf Delete type=2 #34
+2024/04/15-18:30:59.024 23bf Delete type=2 #36
+2024/04/16-15:01:54.617 23c1 Level-0 table #41: started
+2024/04/16-15:01:54.621 23c1 Level-0 table #41: 13006 bytes OK
+2024/04/16-15:01:54.624 23c1 Delete type=0 #37
+2024/04/17-12:42:52.969 23c1 Level-0 table #43: started
+2024/04/17-12:42:52.972 23c1 Level-0 table #43: 13243 bytes OK
+2024/04/17-12:42:52.974 23c1 Delete type=0 #40
+2024/04/18-11:03:56.564 23c1 Level-0 table #45: started
+2024/04/18-11:03:56.570 23c1 Level-0 table #45: 13323 bytes OK
+2024/04/18-11:03:56.572 23c1 Delete type=0 #42

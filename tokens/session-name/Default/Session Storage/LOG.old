@@ -1,0 +1,5 @@
+2024/04/12-13:21:27.727 fdb3 Recovering log #17
+2024/04/12-13:21:27.728 fdb3 Level-0 table #19: started
+2024/04/12-13:21:27.733 fdb3 Level-0 table #19: 324 bytes OK
+2024/04/12-13:21:27.749 fdb3 Delete type=3 #15
+2024/04/12-13:21:27.750 fdb3 Delete type=0 #17

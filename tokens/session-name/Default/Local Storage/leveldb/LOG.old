@@ -1,0 +1,17 @@
+2024/04/12-13:21:26.976 fdb3 Recovering log #24
+2024/04/12-13:21:26.979 fdb3 Level-0 table #27: started
+2024/04/12-13:21:26.984 fdb3 Level-0 table #27: 3270 bytes OK
+2024/04/12-13:21:26.998 fdb3 Delete type=3 #21
+2024/04/12-13:21:26.999 fdb3 Delete type=0 #24
+2024/04/12-13:21:27.000 fdb5 Compacting 4@0 + 1@1 files
+2024/04/12-13:21:27.007 fdb5 Generated table #29@0: 95 keys, 5172 bytes
+2024/04/12-13:21:27.007 fdb5 Compacted 4@0 + 1@1 files => 5172 bytes
+2024/04/12-13:21:27.010 fdb5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/12-13:21:27.011 fdb5 Delete type=2 #22
+2024/04/12-13:21:27.011 fdb5 Delete type=2 #27
+2024/04/12-13:21:27.011 fdb5 Delete type=2 #19
+2024/04/12-13:21:27.011 fdb5 Delete type=2 #25
+2024/04/12-13:21:27.011 fdb5 Delete type=2 #17
+2024/04/13-09:52:45.671 fdb5 Level-0 table #31: started
+2024/04/13-09:52:45.679 fdb5 Level-0 table #31: 13441 bytes OK
+2024/04/13-09:52:45.682 fdb5 Delete type=0 #28

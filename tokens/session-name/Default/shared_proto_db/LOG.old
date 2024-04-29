@@ -1,0 +1,5 @@
+2024/04/12-13:21:27.080 fdba Recovering log #15
+2024/04/12-13:21:27.081 fdba Level-0 table #17: started
+2024/04/12-13:21:27.081 fdba Level-0 table #17: 0 bytes OK
+2024/04/12-13:21:27.090 fdba Delete type=0 #15
+2024/04/12-13:21:27.090 fdba Delete type=3 #13
